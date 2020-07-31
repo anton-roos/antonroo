@@ -26,9 +26,9 @@ window.onload = function() {
     'I\'m Anton',
     'I code things on the web',
     'Let us help turn your idea in reality.<br> You can contact me at <a href="mailto:anton@in-detail.com">anton@in-detail.com</a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    '<a target="_blank" href="https://in-detail.com">in-detail.com</a><br><a target="_blank" href="https://github.com/anton-roos">github.com/anton-roos</a><br><a target="_blank" href="https://crimespotter.app">crimespotter.app</a>',
     getCurrentTime(),
-    '👀 J.'
+    '👀 Anton'
   ]
 
   var getFontSize = function() {
