@@ -24,7 +24,7 @@ window.onload = function() {
   var messages = [
     'Howzit 👋',
     'I\'m Anton',
-    'I code things on the web',
+    'I develop apps \& code things on the web.',
     'Let us help turn your idea in reality.<br> You can reach me at <a href="mailto:anton@in-detail.com">anton@in-detail.com</a>',
     '<a target="_blank" href="https://in-detail.com">in-detail.com</a><br><a target="_blank" href="https://github.com/anton-roos">github.com/anton-roos</a><br><a target="_blank" href="https://crimespotter.app">crimespotter.app</a>',
     getCurrentTime(),
