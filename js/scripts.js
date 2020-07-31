@@ -25,7 +25,7 @@ window.onload = function() {
     'Howzit 👋',
     'I\'m Anton',
     'I develop apps \& websites.',
-    'Need something developed?.<br> You can reach me at <br><a href="mailto:anton@in-detail.com">anton@in-detail.com</a>',
+    'Need something developed?<br> 📧 -> <br><a href="mailto:anton@in-detail.com">anton@in-detail.com</a>',
     '<a target="_blank" href="https://in-detail.com">in-detail.com</a><br><a target="_blank" href="https://github.com/anton-roos">github.com/anton-roos</a><br><a target="_blank" href="https://crimespotter.app">crimespotter.app</a>',
     getCurrentTime(),
     '👀 Anton'
