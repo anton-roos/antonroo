@@ -22,10 +22,10 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Julian',
-    'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
+    'Howzit 👋',
+    'I\'m Anton',
+    'I code things on the web',
+    'Let us help turn your idea in reality.<br> You can contact me at <a href="mailto:anton@in-detail.com">anton@in-detail.com</a>',
     '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
     getCurrentTime(),
     '👀 J.'
